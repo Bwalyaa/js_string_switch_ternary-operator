@@ -248,7 +248,7 @@ console.log(ourString.slice(2));
 // console.log(ourString.slice(0, 6));
 
 
-// substing()
+// substring()
 console.log(ourString.substring(2));
 console.log(ourString.substring(0, 6));
 
