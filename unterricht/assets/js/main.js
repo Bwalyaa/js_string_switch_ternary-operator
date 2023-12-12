@@ -224,7 +224,7 @@ console.log(ourString.includes("Tag")); // true
 console.log(ourString.indexOf("i"));
 console.log(ourString.indexOf("H"));
 
-// lenght
+// length
 // gibt uns die länge vom String zurrück
 console.log(ourString.length);
 
